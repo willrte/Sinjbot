@@ -38,9 +38,10 @@ A Discord bot that randomly joins a voice channel, plays a monkey scream, and le
    You can install them using:
    pip install -U discord.py python-dotenv
 
-4.  Fill in your bot token in `.env` under `SINJBOT_TOKEN=`your token
+4.  Remove the "example" from the `example.env` file to make it's name look live `.env` 
+5.  Fill in your bot token in `.env` under `SINJBOT_TOKEN=`your token
 
-5. Run the bot:
+6. Run the bot:
    python bot.py
 
 ---
